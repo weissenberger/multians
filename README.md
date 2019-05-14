@@ -1,4 +1,4 @@
-# MULTIANS - Massively Parallel ANS decoding on GPUs
+# MULTIANS - Massively Parallel ANS Decoding on GPUs
 
 An implementation of a novel algorithm for ANS (Asymmetric Numeral Systems) decoding on GPUs.
 
