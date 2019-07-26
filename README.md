@@ -2,6 +2,8 @@
 
 An implementation of a novel algorithm for ANS (Asymmetric Numeral Systems) decoding on GPUs.
 
+For a detailed description of the concept, please refer to our [conference paper](https://doi.org/10.1145/3337821.3337888).
+
 The algorithm is capable of decoding raw (unpartitioned) ANS-encoded datastreams of variable size at extremely high throughput rates.
 
 > The method does not require any vendor-specific features. Although this implementation uses the CUDA toolkit, porting it to related parallel programming frameworks, such as OpenCL, should be straightforward.
